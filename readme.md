@@ -14,7 +14,7 @@ A simple note-taking web app built with vanilla JavaScript and HTML, backed by a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zaved707/notetaker_vite_python.git
+   git clone https://github.com/zaved707/notetaker_vite_python.git note-taker
    cd note-taker
    ```
 2. install dependencies
